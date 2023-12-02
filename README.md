@@ -3,8 +3,8 @@
 
 ## 👨🏻‍💻 Contributors
 <br>
-    <a href="https://github.com/minseong204/KBU_PM/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=minseong204/KBU_PM"  alt=""/>
+    <a href="https://github.com/KBU-Project-Management-Theory/Project_Management/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=KBU-Project-Management-Theory/Project_Management"  alt=""/>
     </a>
     
 <br>
@@ -20,12 +20,12 @@
     ├── testing.md
     └── etc..
 ``` 
-* BasicDesign.md : [기본 설계](https://github.com/minseong204/KBU_PM/blob/master/BasicDesign.md)
-* DetailDesign.md : [상세 설계](https://github.com/minseong204/KBU_PM/blob/master/DetailDesign.md)
-* GeometryManagement.md : [형상 관리](https://github.com/minseong204/KBU_PM/blob/master/GeometryManagement.md)
-* ImplementationAlgorithm.md : [구현 알고리즘](https://github.com/minseong204/KBU_PM/blob/master/ImplementationAlogorithm.md)
-* RequirementsAnalysis.md : [요구 조건](https://github.com/minseong204/KBU_PM/blob/master/RequirementsAnalysis.md)
-* testing.md : [테스팅](https://github.com/minseong204/KBU_PM/blob/master/testing.md)
+* BasicDesign.md : [기본 설계](https://github.com/KBU-Project-Management-Theory/Project_Management/blob/master/design/BasicDesign.md)
+* DetailDesign.md : [상세 설계](https://github.com/KBU-Project-Management-Theory/Project_Management/blob/master/design/DetailDesign.md)
+* GeometryManagement.md : [형상 관리](https://github.com/KBU-Project-Management-Theory/Project_Management/blob/master/design/GeometryManagement.md)
+* ImplementationAlgorithm.md : [구현 알고리즘](https://github.com/KBU-Project-Management-Theory/Project_Management/blob/master/design/ImplementationAlogorithm.md)
+* RequirementsAnalysis.md : [요구 조건](https://github.com/KBU-Project-Management-Theory/Project_Management/blob/master/design/RequirementsAnalysis.md)
+* testing.md : [테스팅](https://github.com/KBU-Project-Management-Theory/Project_Management/blob/master/design/testing.md)
 <br>
 ## 💻 commit 규칙
 
